@@ -2,7 +2,7 @@
 
 ## Docker Services
 
-- Prometheus from data descovery
+- Prometheus for data descovery
 - CAdvisor to monitor Docker containers
 - Grafana to visualize data
 
